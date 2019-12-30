@@ -35,6 +35,64 @@ p {
     padding: 0 20px;
 }
 
+.text-primary {
+    color: orangered;
+}
+
+
+.btn {
+    display: inline-block;
+    font-size: 21px;
+    color: #fff;
+    background-color: #333;
+    padding: 12px 21px;
+    border: 1px solid gold;
+    border-radius: 10px;
+
+}
+
+.btn:hover {
+    color: crimson;
+    background-color: gray;
+}
+
+.bg-dark {
+    background: #333;
+    color: #fff;
+}
+
+
+.clear {
+    clear: both;
+}
+
+/* Home info  */
+
+#home-info {
+    height: 400px;
+}
+
+#home-info .info-image {
+    float: left;
+    width: 50%;
+    background: url('../images/hotel2.jpg') no-repeat;
+    min-height: 100%;
+}
+
+#home-info .info-content {
+    float: right;
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    padding: 50px 30px;
+    overflow: hidden;
+}
+
+#home-info .info-content p {
+    padding-bottom: 30px;
+}
+
+
 /* Navbar */
 
 #nav-bar {
@@ -74,6 +132,89 @@ p {
     background: #444;
     color: red;
 }
+
+
+/* Showcase */
+#showcase {
+    background: url('../images/hotel1.jpg') no-repeat center center/cover;
+    height: 600px;
+    
+}
+#home-info {
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+#showcase .showcase-content {
+    color: #fff;
+    text-align: center;
+    padding-top: 140px;
+
+}
+
+#showcase .showcase-content h1 {
+    font-size: 60px; 
+    line-height: 1.3em;
+}
+#showcase .showcase-content h2 {
+    font-size: 40px; 
+    line-height: 1.3em;
+}
+
+.lead-text {
+    font-size: 24px;
+}
+
+#showcase .showcase-content p {
+    padding-bottom: 20px;
+    line-height: 1.8em;
+}
+
+
+/* Features section */
+
+.box {
+
+    float: left;
+    width: 33.3%;
+    padding: 50px;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 15px;
+    
+}
+
+.box i {
+    margin-bottom: 10px;
+}
+
+.box {
+    background: gray;
+    border: 1px solid gold;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+
+#footer {
+    text-align: center;
+    background-color: grey;
+    color: #fff;
+    padding: 25px;
+    border-radius: 20px;
+    margin-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
