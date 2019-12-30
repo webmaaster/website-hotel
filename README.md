@@ -3,5 +3,5 @@ A hotel website from scratch
 
 ## A Simple website with following requirements:
 
-### Will have 5 navigation or navbars
+### Will have 3 navigation or navbars
 ### 
