@@ -76,7 +76,10 @@ p {
 }
 
 
-
+/* Showcase */
+#showcase {
+    background: url('../images/hotel1.jpg') no-repeat center center/cover;
+}
 
 
 
