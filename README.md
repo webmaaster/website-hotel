@@ -9,4 +9,4 @@ A hotel website from scratch
 ### About page with at least 2 guest reviews
 ### Contact page a contact form
 
-#### Website should be build with just HTML & CSS!
+## Website should be built with just HTML & CSS!
