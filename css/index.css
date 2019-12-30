@@ -26,6 +26,67 @@ p {
     margin: 10px 0;
 }
 
+/* Utility classes */
+
+.container {
+    margin: auto;
+    max-width: 1100px;
+    overflow: auto;
+    padding: 0 20px;
+}
+
+/* Navbar */
+
+#nav-bar {
+    background-color: #333;
+    color: #fff;
+    overflow: auto;
+}
+
+#nav-bar a {
+    color: #fff;
+}
+
+#nav-bar h1 {
+    float: left;
+    padding-top: 20px;
+}
+
+#nav-bar ul{
+    list-style: none;
+    float: right;
+}
+
+
+#nav-bar ul li {
+    float: left; 
+
+}
+
+#nav-bar ul li a {
+    display: block;
+    padding: 20px;
+    text-align: center;
+}
+
+#nav-bar ul li a:hover,
+#nav-bar ul li a.current{
+    background: #444;
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
